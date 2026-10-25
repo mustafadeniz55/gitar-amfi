@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33933171/README.md)
 # Gitar Amfi (Android)
 
 Telefonun mikrofonundan aldığı enstrüman sesini amfi simülasyonundan geçirip kulaklığa veren uygulama.
